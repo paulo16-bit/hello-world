@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My name is Paulo André and this is my first repository
